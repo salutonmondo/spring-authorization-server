@@ -15,9 +15,6 @@ It is recommended to install the ZenHub https://www.zenhub.com/extension[browser
 
 The feature list can be viewed in the https://docs.spring.io/spring-authorization-server/docs/current/reference/html/overview.html#feature-list[reference documentation].
 
-== Support Policy
-The Spring Authorization Server project provides software support and is documented in its link:SUPPORT_POLICY.adoc[support policy].
-
 == Getting Started
 The first place to start is to read the https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-01[OAuth 2.1 Authorization Framework] to gain an in-depth understanding on how to build an Authorization Server.
 It is a critically important first step as the implementation must conform to the specification defined in the OAuth 2.1 Authorization Framework and the https://github.com/spring-projects/spring-authorization-server/wiki/OAuth-2.0-Specifications[related specifications].
